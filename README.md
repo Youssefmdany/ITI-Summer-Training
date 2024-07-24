@@ -1,1 +1,1 @@
-# This repository contains materials from my ITI summer training program
+## This repository contains materials from my ITI summer training program
